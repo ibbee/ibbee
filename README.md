@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ibrahim
 
-<!--
-**ibbee/ibbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS graduate with interest in AI Engineering and AI Automation.
 
-Here are some ideas to get you started:
+Currently focused on:
+- Retrieval-Augmented Generation (RAG)
+- AI workflow systems
+- Local LLM applications
+- Prompt engineering
+- AI reliability and guardrails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### [AI SQL Assistant](https://github.com/ibbee/ai-sql-assistant)
+AI-powered PostgreSQL query generator using local LLMs with validation and guardrails.
+
+### [Private RAG Assistant](https://github.com/ibbee/local-rag)
+Local document question-answering system using embeddings, FAISS, and Ollama.
+
+## Tech Stack
+
+- Python
+- FastAPI
+- Streamlit
+- Ollama
+- FAISS
+- PostgreSQL
+- Oracle SQL
+- Git/GitHub
+
+## Current Goal
+
+Building practical AI systems and automation workflows for freelancing and AI engineering opportunities.
