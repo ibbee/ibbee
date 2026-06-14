@@ -17,6 +17,9 @@ AI-powered PostgreSQL query generator using local LLMs with validation and guard
 ### [Private RAG Assistant](https://github.com/ibbee/local-rag)
 Local document question-answering system using embeddings, FAISS, and Ollama.
 
+### [AI Workflow System](https://github.com/ibbee/ai-workflow-system)
+AI-powered document workflow automation system built with FastAPI and local LLMs.
+
 ## Tech Stack
 
 - Python
