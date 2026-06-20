@@ -20,6 +20,9 @@ Local document question-answering system using embeddings, FAISS, and Ollama.
 ### [AI Workflow System](https://github.com/ibbee/ai-workflow-system)
 AI-powered document workflow automation system built with FastAPI and local LLMs.
 
+### [AI Knowledge Base Assistant](https://github.com/ibbee/AI_Knowledge_Base_Assistant)
+AI-powered knowledge base system using FastAPI, SQLite, FAISS, and local LLMs for document management and question answering.
+
 ## Tech Stack
 
 - Python
